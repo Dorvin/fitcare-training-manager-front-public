@@ -1,0 +1,55 @@
+#workout-name {
+    /*background-color: #3bdccd!important;*/
+    text-align: center;
+    font-size: 30px;
+}
+
+#card-detail {
+    margin: 5px;
+    /*background-color: #fdd9d9;*/
+}
+
+#flex-container-exName {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#flex-container-set {
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-control#set-input{
+    width: 70px;
+}
+
+p#set-label{
+    color: cornflowerblue;
+    font-weight: bold;
+    line-height: 40px;
+    vertical-align: middle;
+}
+
+span#exName {
+    vertical-align: middle;
+    line-height: 38px;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#button-flex {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#set-num{
+    margin-top: 10px;
+}
+
+#add-save-flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}

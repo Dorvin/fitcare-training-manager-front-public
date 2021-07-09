@@ -1,0 +1,24 @@
+.button-wrapper{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#profile-label{
+    font-size: 20px;
+}
+
+#profile-flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+#profile-data{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+.mycardheader {
+    background-color: #3bdccd!important;
+}

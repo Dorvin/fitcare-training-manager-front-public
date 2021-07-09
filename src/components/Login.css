@@ -1,0 +1,21 @@
+.login-container {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+
+#submit {
+    background-color: darkblue;
+}
+
+.jumbotron {
+    margin-top: 50px;
+}
+
+.Fitcare-login {
+    margin-top: 100px;
+}
+
+hr {
+    width: 70%;
+}

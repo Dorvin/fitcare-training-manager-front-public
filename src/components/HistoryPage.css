@@ -1,0 +1,13 @@
+.history{
+    margin: 5px;
+}
+
+#flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#label {
+    color: cornflowerblue;
+    font-weight: bold;
+}
